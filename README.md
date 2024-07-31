@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashank Rajora</h1>
-<h3 align="center">Final year undergrad at IIIT Dharwad from Uttar Pradesh, India. Works in C/C++ and interested in low level stuff.</h3>
+<h3 align="center">C/C++, interested in low level stuff.</h3>
 
 - 🔭 I’m currently working on [Operating Systems](https://github.com/Sha-x2-nk/ArjunOS)
 
