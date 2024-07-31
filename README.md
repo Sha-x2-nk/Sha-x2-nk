@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sha-x2-nk](https://github.com/Sha-x2-nk)
 
-- 💬 Ask me about **parallel programming, CUDA, ML**
+- 💬 Ask me about **parallel programming, CUDA, ONNX RT, Deep Learning**
 
 - 📫 How to reach me **shashankrajora2002@gmail.com**
 
