@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashank Rajora</h1>
 <h3 align="center">Final year undergrad at IIIT Dharwad from Uttar Pradesh, India. Works in C/C++ and interested in low level stuff.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sha-x2-nk&label=Profile%20views&color=0e75b6&style=flat" alt="sha-x2-nk" /> </p>
-
 - 🔭 I’m currently working on [Operating Systems](https://github.com/Sha-x2-nk/ArjunOS)
 
 - 🌱 I’m currently learning **Operating Systems**
