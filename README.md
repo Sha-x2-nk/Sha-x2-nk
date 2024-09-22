@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashank Rajora</h1>
 <h3 align="center">C/C++, interested in low level stuff.</h3>
 
-- 🔭 I’m currently working on [Operating Systems](https://github.com/Sha-x2-nk/ArjunOS)
+- 🔭 I’m currently working on [Operating Systems](https://github.com/Sha-x2-nk/HobbyOS)
 
 - 🌱 I’m currently learning **Operating Systems**
 
