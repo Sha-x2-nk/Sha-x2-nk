@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shashankrajora2002@gmail.com**
 
-- 📄 Know about my experiences [Resume_Shashank.pdf](https://drive.google.com/file/d/1K8m9XAa8W3EotS8VLB2nCJNyVWjcxJQa/view?usp=sharing)
+- 📄 Know about my experiences [Resume_Shashank.pdf](https://drive.google.com/file/d/17WCoe0d8oYvPfhONt9clGW_-kOoJ4Wjh/view?usp=sharing)
 
 - ⚡ Fun fact **लोहा <img src="images/tata_logo.png" alt="tata_logo" width="20" height="18" style="vertical-align: middle;"/> का
 , जूता <img src="images/bata_logo.png" alt="bata_logo" width="40" height="15" style="vertical-align: middle;"/> का, छोरा <img src="images/jaat.png" alt="bata_logo" width="18" height="20" style="vertical-align: middle;"/> का**
