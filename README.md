@@ -15,9 +15,6 @@
 
 - 📄 Know about my experiences [Resume_Shashank.pdf](https://drive.google.com/file/d/1f5TmIH2P8bNDPHqsju5XkKT_IVBqLaa7/view?usp=sharing)
 
-- ⚡ Fun fact **लोहा <img src="images/tata_logo.png" alt="tata_logo" width="20" height="18" style="vertical-align: middle;"/> का
-, जूता <img src="images/bata_logo.png" alt="bata_logo" width="40" height="15" style="vertical-align: middle;"/> का, छोरा <img src="images/jaat.png" alt="bata_logo" width="18" height="20" style="vertical-align: middle;"/> का**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shashankrajora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashankrajora" height="30" width="40" /></a>
