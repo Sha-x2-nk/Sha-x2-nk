@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shashankrajora2002@gmail.com**
 
-- 📄 Know about my experiences [Resume_Shashank.pdf](https://drive.google.com/file/d/1f5TmIH2P8bNDPHqsju5XkKT_IVBqLaa7/view?usp=sharing)
+- 📄 Know about my experiences [Resume_Shashank.pdf](https://drive.google.com/file/d/1tavrt1fjvU-pdsg6O4mUhyouPviK4Nit/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
